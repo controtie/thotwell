@@ -1,0 +1,12 @@
+{
+  "name": "thotwell",
+  "description": "a place to get help",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "4.x",
+    "async" : "1.5.2",
+    "cookie-parser" : "1.4.1"
+  }
+}
